@@ -57,4 +57,4 @@ To run the WorldInfo locally:
 Please review our [Contributing Guidelines](./CONTRIBUTING.md) for more details.
 
 ## License
-This project is licensed under [MIT License](./LICENSE)
+This project is licensed under [MIT License](./LICENSE.md)
