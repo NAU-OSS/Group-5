@@ -23,7 +23,7 @@ This following instructions will help you to set the local setup ready.
 
 ### Installation
 
-1. **Install the Python v3.12.
+1. **Install the Python v3.12.**
    - Download and install [Python v3.12](https://www.python.org/)
 2. **Install the Django**
    - Open the command prompt.
